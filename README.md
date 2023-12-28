@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Zabir. I'm still updating this U+1F605
+### Hi there, I'm Zabir. I'm still updating this 😅
 
 <!--
 **Zabir-A/Zabir-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

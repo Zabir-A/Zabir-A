@@ -1,4 +1,4 @@
-<!-- ### Hi there, I'm Zabir. I'm still updating this 😅 -->
+### Hi there, I'm Zabir,
 
 <!--
 **Zabir-A/Zabir-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Zabir, a recent graduate from BCIT specialized in full-stack development.</h1>
+<!-- <h1 align="center">Hi, I'm Zabir, a recent graduate from BCIT specialized in full-stack development.</h1> -->
+<h1 align="center">Full stack developer, music producer & tech enthusiast</h1>
 <!-- <h3 align="center">A motivated developer and tech enthusiast from Canada</h3> -->
 
 - 🔭 I’m currently working on **my Data Mining Tool**

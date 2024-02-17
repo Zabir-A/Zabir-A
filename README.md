@@ -1,4 +1,4 @@
-### Hi there, I'm Zabir,
+### Hi there, I'm Zabir. A full stack developer, music producer & tech enthusiast.
 
 <!--
 **Zabir-A/Zabir-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <h1 align="center">Hi, I'm Zabir, a recent graduate from BCIT specialized in full-stack development.</h1> -->
-<h3 align="center">Full stack developer, music producer & tech enthusiast</h3>
+<!-- <h3 align="center">Full stack developer, music producer & tech enthusiast</h3> -->
 <!-- <h3 align="center">A motivated developer and tech enthusiast from Canada</h3> -->
 
 - 🔭 I’m currently working on **my Data Mining Tool**

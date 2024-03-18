@@ -1,4 +1,4 @@
-### Hi there, I'm Zabir, a recent graduate from BCIT specialized in full-stack development.
+### Hi there, I'm Zabir, a current student at BCIT specialized in full-stack development.
 
 <!--
 **Zabir-A/Zabir-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">Full stack developer, music producer & tech enthusiast</h3> -->
 <!-- <h3 align="center">A motivated developer and tech enthusiast from Canada</h3> -->
 
-- 🔭 I’m currently working on **my Data Mining Tool**
+- 🔭 I’m currently working on **my Data Mining & Analytics Tool**
 
 - 🌱 I’m currently working on the **AWS Certified Cloud Practitioner Certification**
 

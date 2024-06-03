@@ -1,4 +1,4 @@
-### Hi there, I'm Zabir, a current student at BCIT specialized in full-stack development.
+### Hi there, I'm Zabir, a recent graduate from BCIT specialized in full-stack development.
 
 <!--
 **Zabir-A/Zabir-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
